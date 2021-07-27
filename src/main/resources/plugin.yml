@@ -1,0 +1,8 @@
+name: Ecobridge
+version: ${project.version}
+main: dev.baraus.ecobridge.Ecobridge
+api-version: 1.17
+authors: [ devbaraus ]
+description: A bridge of economy for mysql
+website: https://baraus.dev
+depend: [Vault]
